@@ -1,4 +1,4 @@
-![Banner](./harishwar.png)
+![Banner](./sandhiya.png)
 
 # Welcome to My GitHub Profile!  
 I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignarkarunanidhi Institute of Technology, Coimbatore, with a passion for transforming creative ideas into impactful, real-world projects. I love exploring the intersection of intelligence and innovation, building solutions that are both technically strong and user-focused. My uniqueness lies in my ability to blend creativity with analytical thinking, crafting clean, efficient code while ensuring clarity and purpose in everything I build. Skilled in Python, C, HTML, CSS, JavaScript, Scikit-learn, NumPy, Pandas, and Streamlit, I enjoy developing intelligent systems that make a difference — like my current project, a Smart Conversational AI with Wearable Health Monitoring System that integrates real-time health tracking with AI-driven insights. I believe in continuous learning, collaboration, and building technology that inspires, informs, and innovates.
