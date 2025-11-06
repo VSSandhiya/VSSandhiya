@@ -589,7 +589,7 @@ Clinched first position in a competitive technical event, demonstrating exceptio
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://linkedin.com/in/harishwar-r-681b37248" target="_blank">
+      <a href="https://www.linkedin.com/in/v-s-sandhiya-9852222a7" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn"/>
       </a>
       <br/>
@@ -598,7 +598,7 @@ Clinched first position in a competitive technical event, demonstrating exceptio
       <sub>Professional Network</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/TecqHarishKrish" target="_blank">
+      <a href="https://github.com/VSSandhiya" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="60" height="60" alt="GitHub"/>
       </a>
       <br/>
@@ -607,7 +607,7 @@ Clinched first position in a competitive technical event, demonstrating exceptio
       <sub>Code Repository</sub>
     </td>
     <td align="center" width="150">
-      <a href="mailto:kit27.am23@gmail.com">
+      <a href="mailto:kit27.am43@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60" alt="Gmail"/>
       </a>
       <br/>
@@ -616,7 +616,7 @@ Clinched first position in a competitive technical event, demonstrating exceptio
       <sub>Direct Contact</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://www.codechef.com/users/kit23bam023" target="_blank">
+      <a href="https://www.codechef.com/users/sandhiya_27" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/11960354?s=280&v=4" width="60" height="60" alt="CodeChef"/>
       </a>
       <br/>
@@ -625,7 +625,7 @@ Clinched first position in a competitive technical event, demonstrating exceptio
       <sub>Competitive Coding</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://leetcode.com/HwWfJcqe" target="_blank">
+      <a href="https://leetcode.com/u/VSSandhiya" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" width="60" height="60" alt="LeetCode"/>
       </a>
       <br/>
@@ -638,8 +638,8 @@ Clinched first position in a competitive technical event, demonstrating exceptio
 
 <br/>
 
-[![](https://img.shields.io/badge/💬-Open_to_Collaborations-blueviolet?style=for-the-badge)](mailto:kit27.am23@gmail.com)
-[![](https://img.shields.io/badge/🚀-Let's_Build_Together-success?style=for-the-badge)](https://linkedin.com/in/harishwar-r-681b37248)
+[![](https://img.shields.io/badge/💬-Open_to_Collaborations-blueviolet?style=for-the-badge)](mailto:kit27.am43@gmail.com)
+[![](https://img.shields.io/badge/🚀-Let's_Build_Together-success?style=for-the-badge)](https://www.linkedin.com/in/v-s-sandhiya-9852222a7)
 
 </div>
 
