@@ -26,8 +26,9 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 
 </td>
     <td width="50%" valign="top">
+      
+<img src="https://raw.githubusercontent.com/VSSandhiya/VSSandhiya/main/123.gif" alt="Coding GIF" width="100%" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
 
 </td>
   </tr>
