@@ -5,7 +5,8 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 
 ---
 
-## Programmer | Vibe Coder | Algorithm Practitioner
+## AI Innovator | Vibe Coder | Algorithm Enthusiast
+
 <div align="center">
 
 # About Me
@@ -357,7 +358,7 @@ Secured 3rd position among top innovators in a prestigious state-level hackathon
 <td width="50%">
 
 ###  TANCAM 3DEXPERIENCE Hackathon
-**2nd Place - Tamil Nadu Women's Hackathon 2025 🔥**
+**2nd Place - Tamil Nadu Women's Hackathon 2025 **
 > *TIDCO Tamil Nadu Centre of Excellence for Advanced Manufacturing – Dassault Systèmes 3DEXPERIENCE Lab*
 
 Secured 2nd place in the Tamil Nadu Women's Hackathon 2025, organized by TNSWC and powered by TIDCO & Dassault Systèmes 3DEXPERIENCE Lab.  
