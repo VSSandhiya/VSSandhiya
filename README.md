@@ -256,221 +256,85 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 
 ---
 
-#  Featured Projects
+#  Project Showcase  
 
-<div align="center">
+<table>  
+<tr>  
+<td>  
 
-*Building impactful solutions at the intersection of technology and innovation*
+####  **Predicting Neonatal Diseases**  
+> *AI-Powered Health Prediction System*  
 
-</div>
+** Rating:** ★★★★★ (Top Rated Project)  
 
----
+Developed an intelligent neonatal health prediction model that identifies and classifies risks such as *Respiratory Issues, Jaundice,* and *Infections* in newborns.  
+This system combines AI-based health monitoring and medical analytics to deliver reliable insights for early diagnosis.  
 
-##  Social Media and Mental Health Analyzer
+**Highlights:**  
+-  Multi-class risk prediction (No Risk, Respiratory, Jaundice, Infection)  
+-  Real-time dashboard using Streamlit  
+-  Automatic PDF report generation  
+-  AI Voice Assistant for medical guidance  
+-  Explainable AI (SHAP-based insights)  
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/TecqHarishKrish/Social_media_mental_health_tracker)
-
-<table>
-<tr>
-<td width="60%">
-
-### Overview
-A comprehensive full-stack platform designed to analyze mental health patterns through social media metrics, providing actionable insights for better well-being.
-
-###  Key Highlights
-- ** 3rd Prize Winner** - IIT Madras TN Hackathon X 2025
-- Real-time tracking of social connections and engagement patterns
-- Interactive visual dashboards with data-driven mental health insights
-- Automated email notification system for user engagement
-
-###  Technical Architecture
-- **Frontend:** React, TypeScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **APIs:** RESTful Services
-
-</td>
-<td width="40%" align="center">
-
-```
-┌─────────────────┐
-│   React UI      │
-└────────┬────────┘
-         │
-┌────────▼────────┐
-│  Express API    │
-└────────┬────────┘
-         │
-┌────────▼────────┐
-│    MongoDB      │
-└─────────────────┘
-```
-
-**Impact Metrics**
--  Real-time Analysis
--  Visual Insights
--  Smart Alerts
-
-</td>
-</tr>
-</table>
+**Tech Stack:** Python, Scikit-learn, Streamlit, Pandas, NumPy, SHAP  
 
 ---
 
-##  Offline Resume RAG Chatbot
+####  **Furry Friends – Pet Store & Healthcare Website**  
+> *Your one-stop pet care and adoption hub*  
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/TecqHarishKrish/Offline-Resume-Rag-chatbot)
+** Rating:** ★★★★☆  
 
-<table>
-<tr>
-<td width="40%" align="center">
+A dynamic web platform offering **pet adoption, healthcare services, and pet food store management.**  
+Designed with a visually appealing and user-friendly interface for all pet lovers.  
 
-###  Core Features
+**Highlights:**  
+-  Pet adoption form with image showcase (Dogs, Cats, Rabbits, Birds)  
+   Pet healthcare and food store services  
+-  Contact form and “About Us” section  
+-  Styled using cascading CSS effects and image-based backgrounds  
 
-```
-Privacy-First
-    ↓
-Local Processing
-    ↓
-Smart Analysis
-    ↓
-Natural Q&A
-```
-
-**Tech Stack**
-- LangChain
-- Hugging Face
-- FAISS
-- Streamlit
-
-</td>
-<td width="60%">
-
-### Overview
-An intelligent, privacy-focused chatbot that processes and analyzes resumes entirely offline, ensuring complete data security while providing natural language interactions.
-
-###  Key Features
-- ** 100% Offline** - Complete local processing for maximum privacy
-- ** Smart PDF Parsing** - Advanced document analysis and extraction
-- ** Natural Interactions** - Conversational AI for resume queries
-- ** Context-Aware** - Intelligent understanding of resume content
-
-###  Technology Stack
-Built with cutting-edge NLP and vector search technologies for optimal performance without internet dependency.
-
-</td>
-</tr>
-</table>
+**Tech Stack:** HTML, CSS, JavaScript  
 
 ---
 
-##  Predicting Neonatal Diseases
+####  **Hand Gesture Recognition System**  
+> *AI-Based Human-Computer Interaction Project*  
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/TecqHarishKrish/Predicting_Neonatal_Diseases)
+** Rating:** ★★★★☆  
 
+A computer vision-based project that detects and interprets hand gestures in real-time.  
+Enables intuitive control systems and can be expanded for accessibility tools.  
 
-<table>
-<tr>
-<td width="60%">
+**Highlights:**  
+-  Real-time gesture recognition using OpenCV  
+-  Integrated camera input and preprocessing  
+-  Gesture-based control for user interface  
 
-### Overview
-An AI-driven early detection system leveraging deep learning to identify potential health complications in newborns, enabling timely medical intervention.
-
-###  Key Capabilities
-- ** Deep Learning Models** - CNN and LSTM architectures for pattern recognition
-- ** Multi-modal Analysis** - Physiological and clinical data processing
-- ** Early Detection** - Predictive insights for proactive healthcare
-- ** Clinical Impact** - Improved outcomes through timely intervention
-
-###  Technical Foundation
-- **Data Processing:** Pandas, NumPy
-- **Deep Learning:** Keras, TensorFlow
-- **Model Architecture:** CNN + LSTM hybrid approach
-
-</td>
-<td width="40%" align="center">
-
-###  Model Pipeline
-
-```
-Clinical Data Input
-       ↓
-Data Preprocessing
-       ↓
-Feature Engineering
-       ↓
-CNN + LSTM Models
-       ↓
-Risk Prediction
-       ↓
-Clinical Insights
-```
-
-**Application Areas**
--  Respiratory Issues
--  Cardiac Conditions
--  Metabolic Disorders
-
-</td>
-</tr>
-</table>
+**Tech Stack:** Python, OpenCV, Mediapipe  
 
 ---
 
-##  Android Game Development
+####  **Pet Adoption Management System**  
+> *Streamlined Pet Adoption Process using Web Technology*  
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/TecqHarishKrish/Gaming-Platform)
+** Rating:** ★★★☆☆  
 
+A simple web-based system that helps manage pet adoption requests efficiently.  
+Focused on providing a digital platform for shelters to list and track adoptions.  
 
-<table>
-<tr>
-<td width="40%" align="center">
+**Highlights:**  
+-  Adoption form with user data validation  
+-  Pet profiles with breed details and availability  
+-  Responsive design with basic navigation  
 
-###  Design Philosophy
+**Tech Stack:** HTML, CSS, JavaScript  
 
-```
-Engaging
-   +
-Intuitive
-   +
-Optimized
-   ↓
-Exceptional UX
-```
+</td>  
+</tr>  
+</table>  
 
-**Built With**
-- Android Studio
-- Java
-- Material Design
-
-</td>
-<td width="60%">
-
-### Overview
-An immersive mobile gaming experience crafted with attention to detail, featuring smooth gameplay mechanics and an intuitive interface optimized for Android devices.
-
-###  Highlights
-- ** Polished UI/UX** - Clean and intuitive interface design
-- ** Performance Optimized** - Smooth gameplay across devices
-- ** Engaging Mechanics** - Interactive and responsive gameplay
-- ** Mobile-First** - Designed specifically for touch interfaces
-
-###  Development Stack
-Native Android development with modern Java practices and Material Design principles.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-###  *Driven by curiosity, powered by code*
-
-**[View More Projects →](#)** | **[Get In Touch →](#)**
-
-</div> 
 
 ---
 
@@ -491,15 +355,17 @@ Secured 3rd position among top innovators in a prestigious state-level hackathon
 </td>
 <td width="50%">
 
-###  Code Detox
-**1st Place - Technical Event**
-> *PPG College*
+###  TANCAM 3DEXPERIENCE Hackathon
+**2nd Place - Tamil Nadu Women's Hackathon 2025 🔥**
+> *TIDCO Tamil Nadu Centre of Excellence for Advanced Manufacturing – Dassault Systèmes 3DEXPERIENCE Lab*
 
-Clinched first position in a competitive technical event, demonstrating exceptional problem-solving and coding prowess.
+Secured 2nd place in the Tamil Nadu Women's Hackathon 2025, organized by TNSWC and powered by TIDCO & Dassault Systèmes 3DEXPERIENCE Lab.  
+A proud and empowering achievement as a woman in technology, showcasing innovation, technical excellence, and problem-solving skills in the field of advanced manufacturing and AI solutions.
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -509,8 +375,8 @@ Clinched first position in a competitive technical event, demonstrating exceptio
 
 |  Certification |  Issuing Organization |  Specialization |
 |:-----------------|:------------------------|:------------------|
-| **Joy of Computing using Python** | NPTEL | **Elite** Grade |
-| **Prompt Engineering** | Coursera | AI/ML Engineering |
+| **Design Thinking** | NPTEL | **Elite** Grade |
+| **Foundations of AI** | Coursera | AI/ML Engineering |
 | **Machine Learning with Python** | IBM | Data Science & ML |
 
 </div>
