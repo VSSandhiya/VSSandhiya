@@ -23,7 +23,7 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 - Passionate about **Artificial Intelligence, Machine Learning, Data Science**, and **Full-Stack Development.**  
 - **Winner of IIT Madras – TN Hackathon X (NCSRC) 2025**, recognized for innovation and problem-solving excellence.  
 - Currently developing a **Smart Conversational AI with Wearable Health Monitoring System** integrating real-time analytics and AI-driven health insights.  
-- Skilled in Python, DSA, OOPs, DBMS, Deep Learning, and Cloud Computing, with a passion for creating intelligent, innovative, and user-focused solutions.
+- Skilled in Python, DSA, OOPs, DBMS, IOT with a passion for creating intelligent, innovative, and user-focused solutions.
 
 </td>
     <td width="50%" valign="top">
@@ -37,7 +37,7 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 
 <div align="center">
 
-### Let's build something amazing together! 🚀
+### Let's build something amazing together! 
 
 </div>
 
@@ -51,15 +51,10 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 
 ### Databases & Tools
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  </a>
+  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   </a>
@@ -79,45 +74,14 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 
 ### Frameworks & Libraries
 <p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  </a>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
   </a>
 </p>
 
@@ -135,38 +99,15 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
   <a href="https://lovable.dev" target="_blank">
     <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
   </a>
-  <a href="https://www.solidjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Solid-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
-  </a>
-  <a href="https://www.hostinger.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Hostinger-8B3FFD?style=for-the-badge&logo=hostinger&logoColor=white" />
-  </a>
   <a href="https://vercel.com/v0" target="_blank">
     <img src="https://img.shields.io/badge/V0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://base44.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Base44-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
   </a>
   <a href="https://replit.com/@sandhiyavs" target="_blank">
     <img src="https://img.shields.io/badge/Replit-6678FF?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://codepen.io" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://stackblitz.com" target="_blank">
-    <img src="https://img.shields.io/badge/StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white" />
-  </a>
+  
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </a>
-  <a href="https://codesandbox.io" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
-  </a>
-  <a href="https://notebooklm.google" target="_blank">
-    <img src="https://img.shields.io/badge/NotebookLM-34A853?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="https://github.dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Dev-24292E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
