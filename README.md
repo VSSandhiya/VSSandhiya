@@ -117,34 +117,29 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
 <div align="center">
 
 ##  Competitive Programming Profiles
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ###  LeetCode Profile
-
-<a href="https://leetcode.com/u/sandhiya_ai/">
-  <img src="https://leetcard.jacoblin.cool/sandhiya_ai?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
+<a href="https://leetcode.com/u/VSSandhiya/">
+  <img src="https://leetcard.jacoblin.cool/VSSandhiya?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
-
-<a href="https://leetcode.com/u/sandhiya_ai/" target="_blank">
+<a href="https://leetcode.com/u/VSSandhiya/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
-
 <br/>
-
+<img src="https://img.shields.io/badge/Profile-VSSandhiya-0A66C2?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode ID" />
+<br/><br/>
 **Achievements**
 - Specialized in **Dynamic Programming, Arrays, and Strings**
 - Maintains an **active solving streak**
 - **Consistent contributor** to coding challenges
 
 </td>
-
 <td width="50%" valign="top">
 
 ###  CodeChef Profile
-
 <table align="center">
   <tr>
     <td align="center" colspan="2">
@@ -173,12 +168,15 @@ I'm V.S. Sandhiya, an enthusiastic AI and Machine Learning student at Kalaignark
     </td>
   </tr>
 </table>
-
-<a href="https://www.codechef.com/users/sandhiya_ai" target="_blank">
+<a href="https://www.codechef.com/users/sandhiya_27" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
-
 <br/>
+<img src="https://img.shields.io/badge/Profile-sandhiya__27-8B4513?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef ID" />
+
+</td>
+</tr>
+</table>
 
 **Achievements**
 - Solved **420+ Problems**
